@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "292127816339",
+    "project_id": "pdfshub-44f76",
+    "storage_bucket": "pdfshub-44f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292127816339:android:b7c192e992f1f6e5e4eb66",
+        "android_client_info": {
+          "package_name": "com.pdfshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292127816339-po0rlj5h5ee66m7nass5fj7fo9emt11q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQa9VumLDK_6HL07WlKGVBiaMOWQhjZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292127816339-po0rlj5h5ee66m7nass5fj7fo9emt11q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292127816339-1dmhst0l45akv8pg0d0blnm20f6qoiat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pdfshub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
