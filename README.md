@@ -1,16 +1,18 @@
-# pdfsshub
+#PDFNECTICS
 
-A new Flutter project.
+● Developed a cross-platform PDF management application using Flutter and Node.js with Express.js.
 
-## Getting Started
+● Leveraged the power of Flutter to create a user-friendly interface with all PDF features and functionalities.
 
-This project is a starting point for a Flutter application.
+● Implemented Pdf-lib npm package to enable compression, merging, and conversion of PDFs to different document formats.
 
-A few resources to get you started if this is your first Flutter project:
+● Utilized Node.js with Express.js on the server-side to handle PDF processing and facilitate seamless communication between
+the client and server.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+● Integrated a download option within the application for offline access.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+● Ensured compatibility across multiple platforms, including iOS, Android, and web, through the use of Flutter's
+cross-platform capabilities.
+
+● Demonstrated proficiency in utilizing Flutter, Node.js, Express.js, and Pdf-lib to achieve efficient and reliable PDF processing
+and manipulation.
