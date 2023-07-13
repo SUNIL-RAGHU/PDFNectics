@@ -14,6 +14,7 @@ the client and server.
 ● Ensured compatibility across multiple platforms, including iOS, Android, and web, through the use of Flutter's
 cross-platform capabilities.
 
+
 ● Demonstrated proficiency in utilizing Flutter, Node.js, Express.js, and Pdf-lib to achieve efficient and reliable PDF processing
 and manipulation.
 
